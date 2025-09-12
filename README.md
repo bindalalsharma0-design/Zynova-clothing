@@ -666,7 +666,7 @@
                     <div class="category-image" style="background: linear-gradient(45deg, rgba(0,0,0,0.3), rgba(0,0,0,0.1)), url('https://img.freepik.com/premium-photo/girl-branded-clothes-is-walking-autumn-park_128442-1413.jpg') center/cover;">
                         <div class="category-overlay">
                             <div class="category-name">Men's Collection</div>
-                            <img src="Gemini_Generated_Image_9x3dcd9x3dcd9x3d.png" height="350px" width="350px" alt="">
+                            
                             <div class="category-count">120+ Items</div>
                         </div>
                     </div>
@@ -675,7 +675,7 @@
                     <div class="category-image" style="background: linear-gradient(45deg, rgba(0,0,0,0.3), rgba(0,0,0,0.1)), url('https://tse1.mm.bing.net/th/id/OIP.AiV-Bqo99p5DAaEAElgn3gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3') center/cover;">
                         <div class="category-overlay">
                             <div class="category-name">Accessories</div>
-                            <img src="Gemini_Generated_Image_h5y0jnh5y0jnh5y0.png" height="350px" width="350px" alt="">
+                            
                             <div class="category-count">80+ Items</div>
                         </div>
                     </div>
