@@ -681,7 +681,7 @@
             </div>
         </div>
     </section>
-
+    
     <!-- Featured Products -->
     <section class="featured-products">
         <div class="container">
