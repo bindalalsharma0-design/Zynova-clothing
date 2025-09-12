@@ -644,7 +644,7 @@
                 <p class="hero-subtitle">Discover premium fashion that speaks to your individuality. Zynova brings you carefully curated collections that blend contemporary design with timeless elegance.</p>
                 <a href="#collections" class="cta-button">Explore Collection</a>
             </div>
-            <div class="hero-image" style="background: linear-gradient(45deg, rgba(0,0,0,0.3), rgba(0,0,0,0.1)), url('https://dusty-amaranth-io8x7qiba0.edgeone.app/Gemini_Generated_Image_3ig1ok3ig1ok3ig1.png') center/cover;"></div>
+            <div class="hero-image" style="background: linear-gradient(45deg, rgba(0,0,0,0.3), rgba(0,0,0,0.1)), url('blob:https://www-towrco-in.filesusr.com/08cb27ff-f854-48fe-8584-2b084a860a4d') center/cover;"></div>
             
         </div>
     </section>
