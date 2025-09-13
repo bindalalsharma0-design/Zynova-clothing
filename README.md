@@ -41,6 +41,7 @@
             padding: 15px 0;
             transition: all 0.3s ease;
             border-bottom: 1px solid var(--light-gray);
+            
         }
 
         .nav-container {
