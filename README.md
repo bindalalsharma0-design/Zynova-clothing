@@ -1,7 +1,4 @@
-# Create a professional clothing brand website for Zynova
-# Based on current 2025 UI trends: minimalist design, bold typography, clean navigation, interactive elements
-
-html_content = """<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -775,7 +772,7 @@ html_content = """<!DOCTYPE html>
                         <li><i class="fas fa-undo"></i> Easy Returns</li>
                     </ul>
                 </div>
-                <div class="about-image" style="background: url('https://th.bing.com/th/id/OIP.A0r_Uu-dzNXM2rJJXeLYLAHaLH?w=123&h=185&c=7&r=0&o=5&pid=1.7') center/cover;"></div>
+                <div class="about-image" style="background: url('https://img.freepik.com/premium-photo/portrait-woman-standing-against-black-background_1048944-20962292.jpg') center/cover;"></div>
             </div>
         </div>
     </section>
